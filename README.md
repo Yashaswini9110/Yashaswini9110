@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there,  👋
+My name is Yashaswini, I am a machine learning enthusiast. I have recently got completed with the machine learning course and the very next day
+started off with the Artificial intelligence course. I am gaining some good knowledge in deep neural networks.
 
-<!--
-**Yashaswini9110/Yashaswini9110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭I’m currently working on ... Different Projects on machine learning
+- 🌱 I’m currently learning ... Deep Learning and Artificial intelligence.
+- 👯 I’m looking to collaborate on ... Machine Learning projects.
+- 🤔 I’m looking for help with ...Deployment of the projects on ML 
+- 💬 Ask me about ... Machine learning and python
+- 📫 How to reach me: ... [Linkedin](linkedin.com/in/yashaswini-kulkarni-937a0b124), email me - yash.kulkarni135@gmail.com
+- 😄 Pronouns: ... If you gotta try me, hire me!
+- ⚡ Fun fact: ... I can drink bitter gourd juice.
